@@ -1,0 +1,17 @@
+﻿<Window x:Class="Carnet.AjouterNumero"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ajouter Numero" Height="180" Width="300"
+        Icon="Icone.ico">
+    <DockPanel Background="#FFE6E6E6">
+        <StackPanel DockPanel.Dock="Top">
+            <ComboBox Margin="30,10" Name="ListeType" SelectedIndex="0"></ComboBox>
+            <TextBlock Text="Numero : " Margin="25,0,0,0"/>
+            <TextBox Name="AjNumero" Margin="15,0,15,0"/>
+        </StackPanel>
+        <WrapPanel DockPanel.Dock="Bottom"  VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <Button Margin=" 8" Click="Fermer">Annuler</Button>
+            <Button Margin=" 8" Click="Ajouter">Valider</Button>
+        </WrapPanel>
+    </DockPanel>
+</Window>

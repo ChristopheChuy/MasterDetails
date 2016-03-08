@@ -1,0 +1,117 @@
+U:\C#\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe.config
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\Carnet.csprojResolveAssemblyReference.cache
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\MainWindow.g.cs
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\App.g.cs
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\Carnet_MarkupCompile.cache
+U:\C#\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe
+U:\C#\Carnet\Carnet\Carnet\bin\Debug\Carnet.pdb
+U:\C#\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.dll
+U:\C#\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.pdb
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\MainWindow.baml
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\Carnet.g.resources
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\Carnet.Properties.Resources.resources
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\Carnet.csproj.GenerateResource.Cache
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\Carnet.exe
+U:\C#\Carnet\Carnet\Carnet\obj\Debug\Carnet.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe.config
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.exe
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\MainWindow.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\MainWindow.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\App.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet_MarkupCompile.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.g.resources
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.Properties.Resources.resources
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.csproj.GenerateResource.Cache
+U:\C#\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe.config
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.exe
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.pdb
+U:\C#\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe
+U:\C#\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.pdb
+U:\C#\Carnet\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.dll
+U:\C#\Carnet\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.pdb
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.csprojResolveAssemblyReference.cache
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\MainWindow.baml
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\MainWindow.g.cs
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\App.g.cs
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet_MarkupCompile.cache
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.g.resources
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.Properties.Resources.resources
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.csproj.GenerateResource.Cache
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\AjouterContact.baml
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\AjouterContact.g.cs
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\AjouterNumero.baml
+U:\C#\Carnet\Carnet\Carnet\Carnet\obj\Debug\AjouterNumero.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe.config
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.exe
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\AjouterContact.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\AjouterNumero.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\AjouterContact.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\AjouterNumero.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\App.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet_MarkupCompile.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\bin\Debug\Carnet.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\MainWindow.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\MainWindow.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.g.resources
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.Properties.Resources.resources
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\Carnet\obj\Debug\Carnet.csproj.GenerateResource.Cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe.config
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet\Carnet\Carnet\obj\Debug\Carnet.exe
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet\Carnet\Carnet\obj\Debug\Carnet.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\bin\Debug\Carnet.exe.config
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Carnet.exe
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Carnet.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Carnet.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\AjouterContact.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\AjouterNumero.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\MainWindow.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Modifier.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\SurprimerNumero.baml
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\AjouterContact.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\AjouterNumero.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\MainWindow.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Modifier.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\SurprimerNumero.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\App.g.cs
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Carnet_MarkupCompile.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Carnet.g.resources
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Carnet.Properties.Resources.resources
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\obj\Debug\Carnet.csproj.GenerateResource.Cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\bin\Debug\Carnet.exe
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\bin\Debug\Carnet.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\bin\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\Carnet\bin\Debug\CarnetLib.pdb
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe.config
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Carnet.exe
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Carnet.pdb
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\bin\Debug\Carnet.exe
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\bin\Debug\Carnet.pdb
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.dll
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\bin\Debug\CarnetLib.pdb
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Carnet.csprojResolveAssemblyReference.cache
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\AjouterContact.baml
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\AjouterNumero.baml
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\MainWindow.baml
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Modifier.baml
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\SurprimerNumero.baml
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\AjouterContact.g.cs
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\AjouterNumero.g.cs
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\MainWindow.g.cs
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Modifier.g.cs
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\SurprimerNumero.g.cs
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\App.g.cs
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Carnet_MarkupCompile.cache
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Carnet.g.resources
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Carnet.Properties.Resources.resources
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\Carnet\obj\Debug\Carnet.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Carnet.Modifier"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Modifier" Height="195" Width="300"
+        Icon="Icone.ico">
+    <DockPanel Background="#FFE6E6E6">
+        <StackPanel DockPanel.Dock="Top">
+            <TextBlock Text="Nom : " Margin="25,0,0,0" HorizontalAlignment="Center"/>
+            <TextBox Name="Nom" Width="100"/>
+            <TextBlock Text="Prenom : " Margin="25,0,0,0" HorizontalAlignment="Center"/>
+            <TextBox Name="Prenom" Width="100"/>
+            <Button Content="Photo" Width="120" Margin="0,10,0,0" Click="ChoixPhoto"/>
+        </StackPanel>
+        <WrapPanel DockPanel.Dock="Bottom"  VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <Button Margin=" 8" Click="fermer"  >Annuler</Button>
+            <Button Margin=" 8" Click="modifier" >Modifier</Button>
+        </WrapPanel>
+    </DockPanel>
+</Window>

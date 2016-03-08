@@ -1,0 +1,30 @@
+U:\C#\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.dll
+U:\C#\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.pdb
+U:\C#\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.dll
+U:\C#\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.pdb
+U:\C#\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.pdb
+U:\C#\Carnet\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.dll
+U:\C#\Carnet\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.pdb
+U:\C#\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.csprojResolveAssemblyReference.cache
+U:\C#\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.dll
+U:\C#\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\CarnetLib\bin\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\CarnetLib\bin\Debug\CarnetLib.pdb
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\CarnetLib\obj\Debug\CarnetLib.csprojResolveAssemblyReference.cache
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\CarnetLib\obj\Debug\CarnetLib.dll
+C:\Users\Hugo Dumazeau\Downloads\Carnet_(2)\Carnet\TpC#DumazeauChuy\Carnet - Copie\Carnet\CarnetLib\obj\Debug\CarnetLib.pdb
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.dll
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\CarnetLib\bin\Debug\CarnetLib.pdb
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.csprojResolveAssemblyReference.cache
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.dll
+C:\Users\christophe\Desktop\Réalisation\MasterDetail\Carnet\Carnet\CarnetLib\obj\Debug\CarnetLib.pdb
